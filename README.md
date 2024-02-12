@@ -24,9 +24,6 @@
 
 
 ### :man_technologist: About Me :
-- 👀 I’m interested in Java Backend, Kotlin and Flutter(Dart) Multiplatform development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on something amazing.
 - 📫 How to reach me: 
   - telegram: @farkhatdzhalelov 
 
